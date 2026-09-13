@@ -1,0 +1,23 @@
+Training UNet on: cuda
+Epoch 1/10 | Loss: 0.1629
+DSC - Bg: 0.9910 | CSF: 0.7918 | GM: 0.8770 | WM: 0.9315
+Epoch 2/10 | Loss: 0.0571
+DSC - Bg: 0.9949 | CSF: 0.8719 | GM: 0.9306 | WM: 0.9627
+Epoch 3/10 | Loss: 0.0482
+DSC - Bg: 0.9958 | CSF: 0.8873 | GM: 0.9358 | WM: 0.9654
+Epoch 4/10 | Loss: 0.0447
+DSC - Bg: 0.9964 | CSF: 0.8943 | GM: 0.9374 | WM: 0.9664
+Epoch 5/10 | Loss: 0.0414
+DSC - Bg: 0.9969 | CSF: 0.9024 | GM: 0.9399 | WM: 0.9675
+Epoch 6/10 | Loss: 0.0391
+DSC - Bg: 0.9973 | CSF: 0.9082 | GM: 0.9415 | WM: 0.9683
+Epoch 7/10 | Loss: 0.0375
+DSC - Bg: 0.9976 | CSF: 0.9122 | GM: 0.9428 | WM: 0.9688
+Epoch 8/10 | Loss: 0.0359
+DSC - Bg: 0.9979 | CSF: 0.9159 | GM: 0.9437 | WM: 0.9693
+Epoch 9/10 | Loss: 0.0348
+DSC - Bg: 0.9981 | CSF: 0.9188 | GM: 0.9447 | WM: 0.9697
+Epoch 10/10 | Loss: 0.0337
+DSC - Bg: 0.9983 | CSF: 0.9213 | GM: 0.9458 | WM: 0.9703
+
+Saved segmentation comparison to 'unet_segmentation_result.png'
