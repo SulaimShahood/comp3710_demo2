@@ -1,0 +1,6 @@
+Running DAWNBench on: cuda
+Initiating Fast Training...
+Epoch 1/1 | Loss: 1.4773
+
+Training completed in 21.45 seconds
+Test Accuracy: 61.17%
