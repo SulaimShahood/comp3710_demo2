@@ -1,0 +1,23 @@
+Training VAE on device: cuda
+Loading OASIS Dataset...
+Epoch [1/20] | Average Loss: 1231.2457
+Epoch [2/20] | Average Loss: 1099.9498
+Epoch [3/20] | Average Loss: 1089.6888
+Epoch [4/20] | Average Loss: 1084.4217
+Epoch [5/20] | Average Loss: 1080.0224
+Epoch [6/20] | Average Loss: 1077.1088
+Epoch [7/20] | Average Loss: 1075.2342
+Epoch [8/20] | Average Loss: 1072.6444
+Epoch [9/20] | Average Loss: 1070.6398
+Epoch [10/20] | Average Loss: 1069.1918
+Epoch [11/20] | Average Loss: 1067.9981
+Epoch [12/20] | Average Loss: 1066.3835
+Epoch [13/20] | Average Loss: 1065.2370
+Epoch [14/20] | Average Loss: 1063.9635
+Epoch [15/20] | Average Loss: 1063.0608
+Epoch [16/20] | Average Loss: 1063.4923
+Epoch [17/20] | Average Loss: 1061.8961
+Epoch [18/20] | Average Loss: 1060.9793
+Epoch [19/20] | Average Loss: 1060.8989
+Epoch [20/20] | Average Loss: 1060.0239
+Successfully saved VAE manifold to 'vae_brain_manifold.png'

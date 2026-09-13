@@ -1,0 +1,25 @@
+Loading LFW Dataset...
+Training on device: cuda
+Starting Training...
+Epoch [5/20], Loss: 1.7488
+Epoch [10/20], Loss: 1.7175
+Epoch [15/20], Loss: 1.6991
+Epoch [20/20], Loss: 1.6874
+
+--- CNN Classification Performance ---
+Accuracy: 0.4534
+                   precision    recall  f1-score   support
+
+     Ariel Sharon       0.00      0.00      0.00        13
+     Colin Powell       0.00      0.00      0.00        60
+  Donald Rumsfeld       0.00      0.00      0.00        27
+    George W Bush       0.45      1.00      0.62       146
+Gerhard Schroeder       0.00      0.00      0.00        25
+      Hugo Chavez       0.00      0.00      0.00        15
+       Tony Blair       0.00      0.00      0.00        36
+
+         accuracy                           0.45       322
+        macro avg       0.06      0.14      0.09       322
+     weighted avg       0.21      0.45      0.28       322
+
+Model saved to 'lfw_cnn_weights.pth'

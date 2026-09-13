@@ -1,0 +1,25 @@
+Running DAWNBench on: cuda
+Initiating Fast Training...
+Epoch 1/24 | Loss: 1.4491
+Epoch 2/24 | Loss: 1.0206
+Epoch 3/24 | Loss: 0.8097
+Epoch 4/24 | Loss: 0.6968
+Epoch 5/24 | Loss: 0.5967
+Epoch 6/24 | Loss: 0.5341
+Epoch 7/24 | Loss: 0.4712
+Epoch 8/24 | Loss: 0.4105
+Epoch 9/24 | Loss: 0.3713
+Epoch 10/24 | Loss: 0.3336
+Epoch 11/24 | Loss: 0.2928
+Epoch 12/24 | Loss: 0.2636
+Epoch 13/24 | Loss: 0.2339
+Epoch 14/24 | Loss: 0.2051
+Epoch 15/24 | Loss: 0.1774
+Epoch 16/24 | Loss: 0.1542
+Epoch 17/24 | Loss: 0.1257
+Epoch 18/24 | Loss: 0.1060
+Epoch 19/24 | Loss: 0.0817
+Epoch 20/24 | Loss: 0.0601
+Epoch 21/24 | Loss: 0.0441
+Epoch 22/24 | Loss: 0.0349
+Epoch 23/24 | Loss: 0.0276
